@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:pokemon_users/data/model/currency/currency_model.dart';
 import 'package:pokemon_users/data/repository/currency_repository.dart';
-import 'package:pokemon_users/data/service/currency_service.dart';
+// import 'package:pokemon_users/data/service/currency_service.dart';
 part 'currency_cubit.dart';
 
 abstract class CurrencyState {
